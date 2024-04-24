@@ -1,16 +1,5 @@
-# newets
+<img width="960" alt="snip" src="https://github.com/ibra-abdi-ibadihi/newETS/assets/113155422/8504fcf8-8b57-4d12-baee-bf4ca52ccbe8">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ibra abdi ibadihi 
+5025201098
+PPB D
